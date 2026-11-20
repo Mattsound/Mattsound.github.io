@@ -261,6 +261,59 @@ h4 {
     padding-left: 1.2rem;
 }
 
+/* A single featured project spans the full grid, and its console
+   screenshots are shown whole instead of cropped. */
+.project-card.featured {
+    grid-column: 1 / -1;
+}
+
+.project-card.featured > img {
+    aspect-ratio: auto;
+    object-fit: contain;
+    padding: 1.5rem;
+}
+
+.project-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin: 1.5rem 0 2rem;
+}
+
+.project-gallery figure {
+    margin: 0;
+}
+
+.project-gallery img {
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    object-fit: contain;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: #0c0b10;
+}
+
+.project-gallery figcaption {
+    margin-top: 0.4rem;
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+.project-details {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.project-content h4 {
+    margin-top: 1.5rem;
+}
+
+.project-content strong {
+    color: var(--text);
+}
+
 .text-link {
     color: var(--accent);
     font-weight: 700;
@@ -295,7 +348,9 @@ h4 {
 @media (max-width: 800px) {
     .hero-content,
     .project-grid,
-    .skills-grid {
+    .skills-grid,
+    .project-gallery,
+    .project-details {
         grid-template-columns: 1fr;
     }
 
