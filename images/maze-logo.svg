@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="t">
+  <title id="t">Maze with its shortest path solved, from the Maze Pathfinder project</title>
+  <rect width="400" height="400" rx="24" fill="#1a1824"/>
+  <rect x="22" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="62" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="102" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="142" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="182" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="222" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="262" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="302" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="342" y="62" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="22" y="102" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="64" y="104" width="32" height="32" rx="8" fill="#b896ff"/><text x="80" y="127" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#15121d">S</text>
+  <circle cx="120" cy="120" r="7" fill="#b896ff"/>
+  <circle cx="160" cy="120" r="7" fill="#b896ff"/>
+  <rect x="182" y="102" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="342" y="102" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="22" y="142" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="102" y="142" width="36" height="36" rx="6" fill="#3a3449"/>
+  <circle cx="160" cy="160" r="7" fill="#b896ff"/>
+  <rect x="182" y="142" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="262" y="142" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="342" y="142" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="22" y="182" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="102" y="182" width="36" height="36" rx="6" fill="#3a3449"/>
+  <circle cx="160" cy="200" r="7" fill="#b896ff"/>
+  <circle cx="200" cy="200" r="7" fill="#b896ff"/>
+  <circle cx="240" cy="200" r="7" fill="#b896ff"/>
+  <rect x="262" y="182" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="342" y="182" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="22" y="222" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="102" y="222" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="142" y="222" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="182" y="222" width="36" height="36" rx="6" fill="#3a3449"/>
+  <circle cx="240" cy="240" r="7" fill="#b896ff"/>
+  <rect x="262" y="222" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="342" y="222" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="22" y="262" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="182" y="262" width="36" height="36" rx="6" fill="#3a3449"/>
+  <circle cx="240" cy="280" r="7" fill="#b896ff"/>
+  <circle cx="280" cy="280" r="7" fill="#b896ff"/>
+  <rect x="304" y="264" width="32" height="32" rx="8" fill="#b896ff"/><text x="320" y="287" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#15121d">G</text>
+  <rect x="342" y="262" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="22" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="62" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="102" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="142" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="182" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="222" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="262" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="302" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <rect x="342" y="302" width="36" height="36" rx="6" fill="#3a3449"/>
+  <text x="200" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#c5bfd0">MATTHEW MORENO</text>
+</svg>
